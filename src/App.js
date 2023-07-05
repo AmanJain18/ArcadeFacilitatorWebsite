@@ -24,7 +24,7 @@ const App = () => {
           image={ProfilePic}
           title={"Akshit Jain"}
           content={
-            "Akshit Jain is the Higher Ed Program Manager at Google Cloud India. He has 3+ years of experience managing many online and offline programs such as the #GoogleCloudReady Program, the GCCCP Program, the Google Cloud Career Fair, and others. Currently, he is managing the Arcade Facilitator Program along with his team of Googlers"
+            "Akshit Jain is the Higher Ed Program Manager at Google Cloud India. He has 3+ years of experience managing many online and offline programs such as the #GoogleCloudReady Program, the GCCP Program, the Google Cloud Career Fair, and others. Currently, he is managing the Arcade Facilitator Program along with his team of Googlers."
           }
         />
         <FacilitatorsSection />
