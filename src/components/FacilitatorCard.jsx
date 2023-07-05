@@ -8,7 +8,7 @@ const FacilitatorCard = ({ name, image }) => {
         src={image}
         alt={name}
       />
-      <h3>{name}</h3>
+      <h3 className="text-white font-semibold mt-2">{name}</h3>
     </div>
   );
 };

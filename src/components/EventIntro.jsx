@@ -1,8 +1,8 @@
 import React from "react";
 
-const EventIntro = ({ image, title, content }) => {
+const EventIntro = ({ image, title, content, className }) => {
   return (
-    <div className="event-intro flex-col flex md:flex-row justify-center items-center text-center md:gap-8 gap-12 mt-12 md:mt-16 md:max-h-[400px]">
+    <div className={`${className} event-intro flex-col flex md:flex-row justify-center items-center text-center md:gap-8 gap-12 mt-12 md:mt-16 md:max-h-[400px]`}>
       <div className="event-intro-image md:w-1/2 flex justify-center bg-cover">
         <img
           className="rounded-lg lg:max-h-[400px] xs:max-w-[220px] md:max-w-[280px] w-[180px] md:w-auto"
@@ -16,7 +16,7 @@ const EventIntro = ({ image, title, content }) => {
         </h2>
         <p className="text-red-500">{content}</p>
       </div>
-    </div>
+    </div >
   );
 };
 

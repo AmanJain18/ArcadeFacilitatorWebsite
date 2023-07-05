@@ -1,5 +1,4 @@
 import React from "react";
-// import Typewriter from "typewriter-effect";
 import { Typewriter } from "react-simple-typewriter";
 
 const CornerEmoji = ({ emoji, position }) => {
