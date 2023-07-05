@@ -17,14 +17,14 @@ const App = () => {
           image={ProgramImg}
           title={"About the Event"}
           content={
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dapibus lacus id sapien ultricies, vitae blandit odio suscipit. Morbi vitae non metus tristique varius. In lobortis lacus eu tincidunt efficitur. Sed scelerisque ante sed consectetur interdum. Suspendisse potenti. Donec at sollicitudin nulla. Duis eu fermentum metus."
+            "The Arcade Facilitator Program is Google's always-on, no-cost initiative designed to help students, professionals and even experts acquire Google Cloud skills. They also get a chance to accumulate points which can then be redeemed for swags and prizes at the Prize Counter. The Program is currently in its second cohort."
           }
         />
         <EventIntro
           image={ProfilePic}
           title={"Akshit Jain"}
           content={
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dapibus lacus id sapien ultricies, vitae blandit odio suscipit. Morbi vitae non metus tristique varius. In lobortis lacus eu tincidunt efficitur. Sed scelerisque ante sed consectetur interdum. Suspendisse potenti. Donec at sollicitudin nulla. Duis eu fermentum metus."
+            "Akshit Jain is the Higher Ed Program Manager at Google Cloud India. He has 3+ years of experience managing many online and offline programs such as the #GoogleCloudReady Program, the GCCCP Program, the Google Cloud Career Fair, and others. Currently, he is managing the Arcade Facilitator Program along with his team of Googlers"
           }
         />
         <FacilitatorsSection />
