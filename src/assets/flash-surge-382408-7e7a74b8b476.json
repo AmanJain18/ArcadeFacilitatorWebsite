@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "flash-surge-382408",
+  "private_key_id": "7e7a74b8b476ed0e8f0a9c92a43cf109db66213d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCrw/vvkXBxIhah\nQokhczieX3gNhUHdydBNkO/E52ZdZY+zdz4HOn4plkhHhJ3aqKqpEHzeu1+BqZy/\nQvfVU72/ao2XGN8Vo3jAgxbLtw7fiFPLyj+1rtOD14Zh87J8m0lt4la3KBttSX6M\niCM1fa0QmFnetrlFkgTXuaLu8fRV/D2AXDqwnLZDqt7p4uN3/ufvOlu+3BwZTzMH\nvTw44Te1//+IyvFcrRbfy81L1hA0WbLfNpnVr0TLcpPYo1NPkRil0+zlF1V+/Mar\nYepuHgy3pLZ4o+nlSLky9FrxJxa3CDK5ZviYGSy+5BUl8Zgq2wnhbTNbOcnWVBuh\nkKdUtqzrAgMBAAECggEAQASZn56LU/8qhAvyZD83eP+IFTH3bJxNQLumQbMlGeZC\netcUjUklwIY8hjtNQjPe94gnojQf0onO3BIvoJjHfdJO12PzsXLuDIJPOroNlw6O\nfMPyntp8BwWLFnLnsT2HTqcvPrB6GG9t9R7AUK14lVjTFgjwYJedqnGL4pbXRDxU\ncf7GqyqGbY3YAtk4pzyf5L17j4nNkcUoNYARhEazN37UG6/HPWaXFT9rwmNntFyj\nnnqbt+/jDs+tl8EyZgEwJUUhPp1JrXNed6QiBdafNqb324WPwpm+DZlfWmnVErAg\n9ZPTYjXmSQDa+f1JDgM+aE15xASGSFCt4mwo6+nKcQKBgQDeej2VxizToD1Z/jX2\n/8ZM9ay+1+R40ebx7hBC/ITEMl6gtdQrSob5IrFKgpKfT2+ms7GvJ3wPlkVN/wDs\nVWhvsPjY2C60e0ipFoskRyCK/rne6oyDzMPn9q7VOPBOwTgfd/+0msGHgrax2ufl\nM8sj2bj3Imx0uWymFQwO98xn1QKBgQDFpZnpFRoIPfjv6677rsUYz94kmEOx1J2f\nNaKWS4OMn60SKc7FGCVFzCCkWOC7v9SFQGTtgSiMkSWuPkLb8w6qm4wh/gqlYzvs\nqw02xws0UelpSysMC2Gd0wfy+NM9zIxlHME+A+knRPK3rKF9Wn/ObrV+AO/vtuWB\n96aJ0KfhvwKBgQDVbIMj6UcbhT8V0+7FEr2TGqMrOUTuOr7IG87x0/kxlfh9R7FQ\nDmDJI2Tcy8IInlXHn9623rP+5/N4TUb/cTeM3kL7EvhLH3Gm8/9rP+iSLqb0mCFQ\nVuEg5970oXi2tFk4pw9gnI1HiDfnCs8na7ZWoAj228kbeL4n3U0CFum6OQKBgF9n\nr6KuV/GQkKCnYMEGvQdcF7wMb+jgW/GlP0VTUD3KOg3hdnj3Tc6iWUNbz6dxUtG7\norxuszcfPVQdo8JuUi8ShJNIALWS8DMu4mMFs6fevk/gQ/g9ajJ30od7iuRy33ZT\naghYdOxKwOreftl2nOj10c/v/eH1pFWXSKGPweobAoGAY/LRhzxQxhtQv5LaVb2Z\nC5wITw0y7EFBdDgQ/BUszzZC9UpgCT23pWIbRCdRmDpPzslFd4iYLZD/93Oug4l+\nuZTTJfxm7mXHk2tBdOFgri3+m/X1xTMqcp+vtrelTTu+AchZdAjj7BH0R58jSLkC\n8dP/wjdR5XAtRy/GSBNS5WI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "arcade-facilitator-898@flash-surge-382408.iam.gserviceaccount.com",
+  "client_id": "116367471261256412157",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/arcade-facilitator-898%40flash-surge-382408.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
