@@ -23,6 +23,9 @@ const Footer = () => {
           <MdPrivacyTip className="text-white hover:text-yellow-400 ease-in-out duration-150" />
         </Link>
       </div>
+      <div className="text-white text-center mt-6">
+        Made by <span className="font-bold text-blue-400">Aman Jain</span>&nbsp; & &nbsp;<span className="font-bold text-yellow-400">Antariksh</span>
+      </div>
     </footer>
   );
 };
